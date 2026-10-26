@@ -141,23 +141,47 @@ Tuleb välja nii:
 
 ### Veel ideid
 
-**Lihtne:** vali, kopeeri, kleebi.
+Iga idee juures on pilt, milline see välja näeb. Ava link, sealt saad koodirea, mille README-sse kleebid.
 
-| Mis | Kust |
-|---|---|
-| Profiili tegemine vormiga, README tuleb ise valmis | [github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker) |
-| Kirjutav animeeritud tekst | [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg) |
-| Päisepilt oma nimega | [github-profile-header-generator](https://github.com/leviarista/github-profile-header-generator) |
-| Liikuvad pildid ja avatarid | [Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) |
-| Veel märke | [Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) |
-| Kõik ühes kohas: vidinad, ikoonid, juhendid | [beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) |
+#### Lihtne: kopeeri ja kleebi
 
-**Keerulisem:** need vajavad tegevust GitHubis. Uuel kontol on need alguses tühjad.
+**Profiili koostaja.** Täidad vormi, README tuleb ise valmis.
+[github-profile-readme-maker](https://github.com/VishwaGauravIn/github-profile-readme-maker)
 
-| Mis | Kust |
-|---|---|
-| Karikad tegevuse eest | [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy) |
-| Statistika kaardid | [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
-| Madu, mis sööb sinu tegevusgraafikut | [snk](https://github.com/Platane/snk) (vajab GitHub Actionsit) |
+**Kirjutav tekst.** Tekst ilmub täht-tähe haaval.
+[readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+
+<img src="https://readme-typing-svg.demolab.com?lines=Tere%21+Olen+Mari;%C3%95pin+IT-d&center=true&width=435" alt="Kirjutav tekst">
+
+**Päisepilt.** Ilus pilt oma nimega profiili ülaossa.
+[github-profile-header-generator](https://github.com/leviarista/github-profile-header-generator)
+
+<img src="https://raw.githubusercontent.com/leviarista/github-profile-header-generator/main/social/examples/example-1.png" width="600" alt="Päisepildi näide">
+
+**Liikuvad pildid ja avatarid.**
+[Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub)
+
+<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" alt="GIF-i näide">
+<img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="300" alt="GIF-i näide">
+
+**Veel märke ja kõik muu ühes kohas:**
+[Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile),
+[beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+
+#### Keerulisem: vajab tegevust GitHubis
+
+Need näitavad, mida oled GitHubis teinud. Uuel kontol on need alguses tühjad.
+
+**Karikad.** [github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png" width="600" alt="Karikad">
+
+**Statistika kaart.** [github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DenverCoder1&theme=default" width="600" alt="Statistika kaart">
+
+**Madu, mis sööb sinu tegevusgraafikut.** Vajab GitHub Actionsit. [snk](https://github.com/Platane/snk)
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="600" alt="Madu">
 
 Rohkem: teema [github-profile-readme](https://github.com/topics/github-profile-readme).
