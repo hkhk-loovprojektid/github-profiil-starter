@@ -111,7 +111,20 @@ Ava `https://github.com/[sinu-kasutajanimi]`. Sinu tutvustus on nüüd profiilil
 
 ---
 
-## Samm 8. Esita Classroomis
+## Samm 8. Võta vastu kutse ja ülesanne
+
+1. Ava <https://github.com/hkhk-loovprojektid>. Üleval on kollane riba kutsega: vajuta **View invitation** ja siis **Join hkhk-loovprojektid**.
+   Kutse tuli ka sinu e-postile.
+2. Ava ülesannete leht: <https://classroom50.org/hkhk-loovprojektid/it26-digioskused/assignments>
+3. Logi sisse oma GitHubi kontoga.
+4. Leia ülesanne **Minu GitHubi profiil** ja võta see vastu (**Accept**).
+5. Sulle tehakse repo nimega `it26-digioskused-github-profiil-[sinu-kasutajanimi]`. See on sinu Classroomi repo.
+
+> Kutset ei tulnud? Ütle õpetajale oma GitHubi kasutajanimi.
+
+---
+
+## Samm 9. Esita link
 
 Ava oma Classroomi repo, vajuta faili `ESITUS.md` juures pliiatsit ✏️, kirjuta sinna link oma profiilile ja vajuta **Commit changes**.
 
