@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2328">
+<rect width="720" height="300" fill="#ffffff"/>
+<rect x="0" y="0" width="720" height="56" fill="#f6f8fa" stroke="#d0d7de"/>
+<circle cx="32" cy="28" r="14" fill="#1f2328"/><text x="32" y="33" text-anchor="middle" fill="#fff" font-size="13" font-weight="700">GH</text>
+<circle cx="680.0" cy="28.0" r="16.0" fill="#ddf4ff" stroke="#0969da"/><circle cx="675.0" cy="25.0" r="1.5" fill="#1f2328"/><circle cx="685.0" cy="25.0" r="1.5" fill="#1f2328"/><path d="M674.0 31.0 Q680.0 37.0 686.0 31.0" stroke="#1f2328" stroke-width="1.2" fill="none"/><circle cx="680.0" cy="28.0" r="16.0" fill="none" stroke="#cf222e" stroke-width="3"/>
+<circle cx="645" cy="28" r="14" fill="#cf222e"/><text x="645" y="33" text-anchor="middle" fill="#fff" font-size="15" font-weight="700">1</text>
+<rect x="440" y="62" width="265" height="200" rx="8" fill="#fff" stroke="#d0d7de" stroke-width="1.5"/>
+<rect x="452" y="74" width="241" height="54" rx="6" fill="#fff8c5" stroke="#cf222e" stroke-width="2"/>
+<text x="468" y="97" font-weight="700" font-size="16">mari-tamm</text>
+<text x="468" y="117" fill="#59636e" font-size="13">Mari Tamm</text>
+<circle cx="420" cy="101" r="14" fill="#cf222e"/><text x="420" y="106" text-anchor="middle" fill="#fff" font-size="15" font-weight="700">2</text>
+<line x1="452" y1="140" x2="693" y2="140" stroke="#d0d7de"/>
+<text x="468" y="168">Your profile</text>
+<text x="468" y="198">Your repositories</text>
+<text x="468" y="228">Settings</text>
+<text x="20" y="160" font-size="14">Kasutajanimi on see, mis on</text>
+<text x="20" y="182" font-size="14"><tspan font-weight="700">paksus kirjas</tspan>. Pane see kirja,</text>
+<text x="20" y="204" font-size="14">vajad seda kohe.</text>
+</svg>

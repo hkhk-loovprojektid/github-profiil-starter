@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 300" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2328">
+<rect width="720" height="300" fill="#ffffff"/>
+<rect x="20" y="20" width="300" height="150" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
+<text x="170" y="52" text-anchor="middle" font-weight="700">Sinu profiil</text>
+<text x="170" y="78" text-anchor="middle" font-size="13" fill="#59636e">sinu enda kontol</text>
+<text x="170" y="120" text-anchor="middle" font-family="Consolas, monospace" fill="#0969da" font-size="14">mari-tamm/mari-tamm</text>
+<rect x="400" y="20" width="300" height="150" rx="10" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2"/>
+<text x="550" y="52" text-anchor="middle" font-weight="700">Classroomi repo</text>
+<text x="550" y="78" text-anchor="middle" font-size="13" fill="#59636e">kooli orgi all</text>
+<rect x="430" y="96" width="240" height="56" rx="6" fill="#fff" stroke="#cf222e" stroke-width="2"/>
+<text x="444" y="120" font-family="Consolas, monospace" font-size="13">ESITUS.md</text>
+<text x="444" y="141" font-family="Consolas, monospace" font-size="11" fill="#0969da">github.com/mari-tamm</text>
+<path d="M395 124 H330" stroke="#1f883d" stroke-width="4" marker-end="url(#a)"/>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="6" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#1f883d"/></marker></defs>
+<text x="360" y="110" text-anchor="middle" font-size="12" fill="#1f883d" font-weight="700">link</text>
+<text x="360" y="215" text-anchor="middle">Profiil ei saa olla Classroomi repos.</text>
+<text x="360" y="240" text-anchor="middle">Classroomi repo faili ESITUS.md paned ainult <tspan font-weight="700">lingi</tspan> oma profiilile.</text>
+</svg>

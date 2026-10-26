@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="15" fill="#1f2328">
+<rect width="720" height="380" fill="#ffffff"/>
+<rect x="20" y="14" width="680" height="34" rx="17" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="44" y="37" font-family="Consolas, monospace" font-size="14">github.com/<tspan font-weight="700">mari-tamm</tspan></text>
+<circle cx="110.0" cy="140.0" r="60.0" fill="#ddf4ff" stroke="#0969da"/><circle cx="91.2" cy="128.8" r="5.6" fill="#1f2328"/><circle cx="128.8" cy="128.8" r="5.6" fill="#1f2328"/><path d="M87.5 151.2 Q110.0 173.8 132.5 151.2" stroke="#1f2328" stroke-width="4.7" fill="none"/>
+<text x="110" y="230" text-anchor="middle" font-size="20" font-weight="700">Mari Tamm</text>
+<text x="110" y="254" text-anchor="middle" fill="#59636e">mari-tamm</text>
+<rect x="210" y="70" width="490" height="290" rx="8" fill="#fff" stroke="#d0d7de" stroke-width="1.5"/>
+<text x="226" y="95" font-size="12" fill="#59636e">mari-tamm / README.md</text>
+<text x="226" y="132" font-size="22" font-weight="700">Tere! Olen Mari</text>
+<text x="226" y="162" font-size="14">Õpin Haapsalu KHK-s IT-süsteemide nooremspetsialistiks.</text>
+<text x="226" y="200" font-size="17" font-weight="700">Mida ma olen õppinud</text>
+<line x1="226" y1="208" x2="684" y2="208" stroke="#d0d7de"/>
+<rect x="226" y="218" width="458" height="30" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="236" y="238" font-size="13" font-weight="700">Õppeaine</text><text x="400" y="238" font-size="13" font-weight="700">Mida oskan</text>
+<rect x="226" y="248" width="458" height="30" fill="#fff" stroke="#d0d7de"/>
+<text x="236" y="268" font-size="13">Arvutivõrkude alused</text><text x="400" y="268" font-size="13">IP-aadress, ping, kaabli tegemine</text>
+<rect x="226" y="278" width="458" height="30" fill="#fff" stroke="#d0d7de"/>
+<text x="236" y="298" font-size="13">Riistvara</text><text x="400" y="298" font-size="13">Panin arvuti kokku</text>
+<rect x="226" y="308" width="458" height="30" fill="#fff" stroke="#d0d7de"/>
+<text x="236" y="328" font-size="13">…</text><text x="400" y="328" font-size="13">…</text>
+</svg>
